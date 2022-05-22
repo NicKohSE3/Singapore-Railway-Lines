@@ -1,0 +1,696 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#FA9F25"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            103.845736,
+            1.299156
+          ],
+          [
+            103.850631,
+            1.296931
+          ],
+          [
+            103.855381,
+            1.293436
+          ],
+          [
+            103.861064,
+            1.293131
+          ],
+          [
+            103.863611,
+            1.299722
+          ],
+          [
+            103.875278,
+            1.302778
+          ],
+          [
+            103.882531,
+            1.306306
+          ],
+          [
+            103.888253,
+            1.308289
+          ],
+          [
+            103.892381,
+            1.317767
+          ],
+          [
+            103.890019,
+            1.32665
+          ],
+          [
+            103.887942,
+            1.335833
+          ],
+          [
+            103.879697,
+            1.342756
+          ],
+          [
+            103.873092,
+            1.349944
+          ],
+          [
+            103.864064,
+            1.351636
+          ],
+          [
+            103.848456,
+            1.351236
+          ],
+          [
+            103.839492,
+            1.349078
+          ],
+          [
+            103.839447,
+            1.337761
+          ],
+          [
+            103.830075,
+            1.333639
+          ],
+          [
+            103.815406,
+            1.322519
+          ],
+          [
+            103.807431,
+            1.317319
+          ],
+          [
+            103.796208,
+            1.312078
+          ],
+          [
+            103.790028,
+            1.307333
+          ],
+          [
+            103.787067,
+            1.299331
+          ],
+          [
+            103.784394,
+            1.293383
+          ],
+          [
+            103.781867,
+            1.282386
+          ],
+          [
+            103.791358,
+            1.276167
+          ],
+          [
+            103.802908,
+            1.272267
+          ],
+          [
+            103.809678,
+            1.270572
+          ],
+          [
+            103.82225,
+            1.265297
+          ],
+          [
+            103.830385,
+            1.269988
+          ],
+          [
+            103.836659,
+            1.272814
+          ],
+          [
+            103.847298,
+            1.273254
+          ],
+          [
+            103.854675,
+            1.276097
+          ],
+          [
+            103.859317,
+            1.282347
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FA9F25",
+        "marker-size": "small",
+        "marker-symbol": "rail",
+        "name": "Dhoby Ghaut"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.845736,
+          1.299156
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FA9F25",
+        "marker-size": "small",
+        "marker-symbol": "rail",
+        "name": "Bras Basah"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.850631,
+          1.296931
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FA9F25",
+        "marker-size": "small",
+        "marker-symbol": "rail",
+        "name": "Esplanade"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.855381,
+          1.293436
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FA9F25",
+        "marker-size": "small",
+        "marker-symbol": "rail",
+        "name": "Promenade"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.861064,
+          1.293131
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FA9F25",
+        "marker-size": "small",
+        "marker-symbol": "rail",
+        "name": "Nicoll Highway"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.863611,
+          1.299722
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FA9F25",
+        "marker-size": "small",
+        "marker-symbol": "rail",
+        "name": "Stadium"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.875278,
+          1.302778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FA9F25",
+        "marker-size": "small",
+        "marker-symbol": "rail",
+        "name": "Mountbatten"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.882531,
+          1.306306
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FA9F25",
+        "marker-size": "small",
+        "marker-symbol": "rail",
+        "name": "Dakota"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.888253,
+          1.308289
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FA9F25",
+        "marker-size": "small",
+        "marker-symbol": "rail",
+        "name": "Paya Lebar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.892381,
+          1.317767
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FA9F25",
+        "marker-size": "small",
+        "marker-symbol": "rail",
+        "name": "Macpherson"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.890019,
+          1.32665
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FA9F25",
+        "marker-size": "small",
+        "marker-symbol": "rail",
+        "name": "Tai Seng"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.887942,
+          1.335833
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FA9F25",
+        "marker-size": "small",
+        "marker-symbol": "rail",
+        "name": "Bartley"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.879697,
+          1.342756
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FA9F25",
+        "marker-size": "small",
+        "marker-symbol": "rail",
+        "name": "Serangoon"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.873092,
+          1.349944
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FA9F25",
+        "marker-size": "small",
+        "marker-symbol": "rail",
+        "name": "Lorong Chuan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.864064,
+          1.351636
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FA9F25",
+        "marker-size": "small",
+        "marker-symbol": "rail",
+        "name": "Bishan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.848456,
+          1.351236
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FA9F25",
+        "marker-size": "small",
+        "marker-symbol": "rail",
+        "name": "Marymount"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.839492,
+          1.349078
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FA9F25",
+        "marker-size": "small",
+        "marker-symbol": "rail",
+        "name": "Caldecott"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.839447,
+          1.337761
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FA9F25",
+        "marker-size": "small",
+        "marker-symbol": "rail",
+        "name": "Bukit Brown"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.830075,
+          1.333639
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FA9F25",
+        "marker-size": "small",
+        "marker-symbol": "rail",
+        "name": "Botanic Gardens"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.815406,
+          1.322519
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FA9F25",
+        "marker-size": "small",
+        "marker-symbol": "rail",
+        "name": "Farrer Road"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.807431,
+          1.317319
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FA9F25",
+        "marker-size": "small",
+        "marker-symbol": "rail",
+        "name": "Holland Village"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.796208,
+          1.312078
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FA9F25",
+        "marker-size": "small",
+        "marker-symbol": "rail",
+        "name": "Buona Vista"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.790028,
+          1.307333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FA9F25",
+        "marker-size": "small",
+        "marker-symbol": "rail",
+        "name": "one-north"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.787067,
+          1.299331
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FA9F25",
+        "marker-size": "small",
+        "marker-symbol": "rail",
+        "name": "Kent Ridge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.784394,
+          1.293383
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FA9F25",
+        "marker-size": "small",
+        "marker-symbol": "rail",
+        "name": "Haw Par Villa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.781867,
+          1.282386
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FA9F25",
+        "marker-size": "small",
+        "marker-symbol": "rail",
+        "name": "Pasir Panjang"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.791358,
+          1.276167
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FA9F25",
+        "marker-size": "small",
+        "marker-symbol": "rail",
+        "name": "Labrador Park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.802908,
+          1.272267
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FA9F25",
+        "marker-size": "small",
+        "marker-symbol": "rail",
+        "name": "Telok Blangah"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.809678,
+          1.270572
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FA9F25",
+        "marker-size": "small",
+        "marker-symbol": "rail",
+        "name": "Harbourfront"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.82225,
+          1.265297
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FA9F25",
+        "marker-size": "small",
+        "marker-symbol": "rail",
+        "name": "Keppel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.830385,
+          1.269988
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FA9F25",
+        "marker-size": "small",
+        "marker-symbol": "rail",
+        "name": "Cantonment"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.836659,
+          1.272814
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FA9F25",
+        "marker-size": "small",
+        "marker-symbol": "rail",
+        "name": "Prince Edward Road"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847298,
+          1.273254
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FA9F25",
+        "marker-size": "small",
+        "marker-symbol": "rail",
+        "name": "Marina Bay"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.854675,
+          1.276097
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FA9F25",
+        "marker-size": "small",
+        "marker-symbol": "rail",
+        "name": "Bayfront"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.859317,
+          1.282347
+        ]
+      }
+    }
+  ]
+}

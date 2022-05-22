@@ -1,0 +1,576 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#D52A13"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            103.742119,
+            1.333415
+          ],
+          [
+            103.749664,
+            1.349073
+          ],
+          [
+            103.751787,
+            1.358702
+          ],
+          [
+            103.7479,
+            1.3697
+          ],
+          [
+            103.744322,
+            1.385092
+          ],
+          [
+            103.747239,
+            1.396986
+          ],
+          [
+            103.761853,
+            1.425047
+          ],
+          [
+            103.774283,
+            1.432636
+          ],
+          [
+            103.786483,
+            1.437094
+          ],
+          [
+            103.800933,
+            1.440689
+          ],
+          [
+            103.820153,
+            1.449025
+          ],
+          [
+            103.829722,
+            1.443056
+          ],
+          [
+            103.835239,
+            1.429464
+          ],
+          [
+            103.8329,
+            1.417167
+          ],
+          [
+            103.844817,
+            1.381906
+          ],
+          [
+            103.84945,
+            1.370017
+          ],
+          [
+            103.848456,
+            1.351236
+          ],
+          [
+            103.846725,
+            1.340339
+          ],
+          [
+            103.8475,
+            1.332778
+          ],
+          [
+            103.843689,
+            1.320394
+          ],
+          [
+            103.838442,
+            1.312956
+          ],
+          [
+            103.8316,
+            1.3032
+          ],
+          [
+            103.839028,
+            1.300514
+          ],
+          [
+            103.845736,
+            1.299156
+          ],
+          [
+            103.852219,
+            1.293239
+          ],
+          [
+            103.851533,
+            1.283881
+          ],
+          [
+            103.854675,
+            1.276097
+          ],
+          [
+            103.86325,
+            1.270944
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#D52A13",
+        "marker-size": "small",
+        "marker-symbol": "rail",
+        "name": "Jurong East"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.742119,
+          1.333415
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#D52A13",
+        "marker-size": "small",
+        "marker-symbol": "rail",
+        "name": "Bukit Batok"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.749664,
+          1.349073
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#D52A13",
+        "marker-size": "small",
+        "marker-symbol": "rail",
+        "name": "Bukit Gombak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.751787,
+          1.358702
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#D52A13",
+        "marker-size": "small",
+        "marker-symbol": "rail",
+        "name": "Brickland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7479,
+          1.3697
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#D52A13",
+        "marker-size": "small",
+        "marker-symbol": "rail",
+        "name": "Choa Chu Kang"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.744322,
+          1.385092
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#D52A13",
+        "marker-size": "small",
+        "marker-symbol": "rail",
+        "name": "Yew Tee"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.747239,
+          1.396986
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#D52A13",
+        "marker-size": "small",
+        "marker-symbol": "rail",
+        "name": "Kranji"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.761853,
+          1.425047
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#D52A13",
+        "marker-size": "small",
+        "marker-symbol": "rail",
+        "name": "Marsiling"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.774283,
+          1.432636
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#D52A13",
+        "marker-size": "small",
+        "marker-symbol": "rail",
+        "name": "Woodlands"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.786483,
+          1.437094
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#D52A13",
+        "marker-size": "small",
+        "marker-symbol": "rail",
+        "name": "Admiralty"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.800933,
+          1.440689
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#D52A13",
+        "marker-size": "small",
+        "marker-symbol": "rail",
+        "name": "Sembawang"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.820153,
+          1.449025
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#D52A13",
+        "marker-size": "small",
+        "marker-symbol": "rail",
+        "name": "Canberra"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.829722,
+          1.443056
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#D52A13",
+        "marker-size": "small",
+        "marker-symbol": "rail",
+        "name": "Yishun"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.835239,
+          1.429464
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#D52A13",
+        "marker-size": "small",
+        "marker-symbol": "rail",
+        "name": "Khatib"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8329,
+          1.417167
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#D52A13",
+        "marker-size": "small",
+        "marker-symbol": "rail",
+        "name": "Yio Chu Kang"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.844817,
+          1.381906
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#D52A13",
+        "marker-size": "small",
+        "marker-symbol": "rail",
+        "name": "Ang Mo Kio"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.84945,
+          1.370017
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#D52A13",
+        "marker-size": "small",
+        "marker-symbol": "rail",
+        "name": "Bishan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.848456,
+          1.351236
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#D52A13",
+        "marker-size": "small",
+        "marker-symbol": "rail",
+        "name": "Braddell"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.846725,
+          1.340339
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#D52A13",
+        "marker-size": "small",
+        "marker-symbol": "rail",
+        "name": "Toa Payoh"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8475,
+          1.332778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#D52A13",
+        "marker-size": "small",
+        "marker-symbol": "rail",
+        "name": "Novena"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.843689,
+          1.320394
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#D52A13",
+        "marker-size": "small",
+        "marker-symbol": "rail",
+        "name": "Newton"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.838442,
+          1.312956
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#D52A13",
+        "marker-size": "small",
+        "marker-symbol": "rail",
+        "name": "Orchard"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8316,
+          1.3032
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#D52A13",
+        "marker-size": "small",
+        "marker-symbol": "rail",
+        "name": "Somerset"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.839028,
+          1.300514
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#D52A13",
+        "marker-size": "small",
+        "marker-symbol": "rail",
+        "name": "Dhoby Ghaut"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.845736,
+          1.299156
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#D52A13",
+        "marker-size": "small",
+        "marker-symbol": "rail",
+        "name": "City Hall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.852219,
+          1.293239
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#D52A13",
+        "marker-size": "small",
+        "marker-symbol": "rail",
+        "name": "Raffles Place"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.851533,
+          1.283881
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#D52A13",
+        "marker-size": "small",
+        "marker-symbol": "rail",
+        "name": "Marina Bay"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.854675,
+          1.276097
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#D52A13",
+        "marker-size": "small",
+        "marker-symbol": "rail",
+        "name": "Marina South Pier"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.86325,
+          1.270944
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,316 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#748578"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            103.9025,
+            1.405278
+          ],
+          [
+            103.905725,
+            1.398111
+          ],
+          [
+            103.908592,
+            1.397364
+          ],
+          [
+            103.912039,
+            1.394647
+          ],
+          [
+            103.916772,
+            1.394439
+          ],
+          [
+            103.916353,
+            1.399686
+          ],
+          [
+            103.912422,
+            1.402369
+          ],
+          [
+            103.908875,
+            1.404814
+          ],
+          [
+            103.904583,
+            1.40975
+          ],
+          [
+            103.906233,
+            1.4128
+          ],
+          [
+            103.906353,
+            1.416883
+          ],
+          [
+            103.901856,
+            1.41595
+          ],
+          [
+            103.900028,
+            1.411878
+          ],
+          [
+            103.898527,
+            1.408057
+          ],
+          [
+            103.896944,
+            1.405417
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#748578",
+        "marker-size": "small",
+        "marker-symbol": "rail",
+        "name": "Punggol"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9025,
+          1.405278
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#748578",
+        "marker-size": "small",
+        "marker-symbol": "rail",
+        "name": "Cove"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.905725,
+          1.398111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#748578",
+        "marker-size": "small",
+        "marker-symbol": "rail",
+        "name": "Meridian"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.908592,
+          1.397364
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#748578",
+        "marker-size": "small",
+        "marker-symbol": "rail",
+        "name": "Coral Edge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.912039,
+          1.394647
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#748578",
+        "marker-size": "small",
+        "marker-symbol": "rail",
+        "name": "Riviera"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.916772,
+          1.394439
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#748578",
+        "marker-size": "small",
+        "marker-symbol": "rail",
+        "name": "Kadaloor"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.916353,
+          1.399686
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#748578",
+        "marker-size": "small",
+        "marker-symbol": "rail",
+        "name": "Oasis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.912422,
+          1.402369
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#748578",
+        "marker-size": "small",
+        "marker-symbol": "rail",
+        "name": "Damai"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.908875,
+          1.404814
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#748578",
+        "marker-size": "small",
+        "marker-symbol": "rail",
+        "name": "Sam Kee"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.904583,
+          1.40975
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#748578",
+        "marker-size": "small",
+        "marker-symbol": "rail",
+        "name": "Teck Lee"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.906233,
+          1.4128
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#748578",
+        "marker-size": "small",
+        "marker-symbol": "rail",
+        "name": "Punggol Point"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.906353,
+          1.416883
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#748578",
+        "marker-size": "small",
+        "marker-symbol": "rail",
+        "name": "Samudera"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.901856,
+          1.41595
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#748578",
+        "marker-size": "small",
+        "marker-symbol": "rail",
+        "name": "Nibong"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.900028,
+          1.411878
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#748578",
+        "marker-size": "small",
+        "marker-symbol": "rail",
+        "name": "Sumang"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.898527,
+          1.408057
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#748578",
+        "marker-size": "small",
+        "marker-symbol": "rail",
+        "name": "Soo Teck"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.896944,
+          1.405417
+        ]
+      }
+    }
+  ]
+}

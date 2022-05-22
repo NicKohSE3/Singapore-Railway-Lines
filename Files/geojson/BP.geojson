@@ -1,0 +1,276 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#748578"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            103.744322,
+            1.385092
+          ],
+          [
+            103.745203,
+            1.380286
+          ],
+          [
+            103.753567,
+            1.376694
+          ],
+          [
+            103.757931,
+            1.378625
+          ],
+          [
+            103.761767,
+            1.378436
+          ],
+          [
+            103.766564,
+            1.377739
+          ],
+          [
+            103.771203,
+            1.376161
+          ],
+          [
+            103.772544,
+            1.380044
+          ],
+          [
+            103.770706,
+            1.384533
+          ],
+          [
+            103.769542,
+            1.387775
+          ],
+          [
+            103.764414,
+            1.386711
+          ],
+          [
+            103.762292,
+            1.382675
+          ],
+          [
+            103.760094,
+            1.380289
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#748578",
+        "marker-size": "small",
+        "marker-symbol": "rail",
+        "name": "Choa Chu Kang"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.744322,
+          1.385092
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#748578",
+        "marker-size": "small",
+        "marker-symbol": "rail",
+        "name": "South View"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.745203,
+          1.380286
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#748578",
+        "marker-size": "small",
+        "marker-symbol": "rail",
+        "name": "Teck Whye"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.753567,
+          1.376694
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#748578",
+        "marker-size": "small",
+        "marker-symbol": "rail",
+        "name": "Phoenix"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.757931,
+          1.378625
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#748578",
+        "marker-size": "small",
+        "marker-symbol": "rail",
+        "name": "Bukit Panjang"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.761767,
+          1.378436
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#748578",
+        "marker-size": "small",
+        "marker-symbol": "rail",
+        "name": "Petir"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.766564,
+          1.377739
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#748578",
+        "marker-size": "small",
+        "marker-symbol": "rail",
+        "name": "Pending"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.771203,
+          1.376161
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#748578",
+        "marker-size": "small",
+        "marker-symbol": "rail",
+        "name": "Bangkit"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.772544,
+          1.380044
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#748578",
+        "marker-size": "small",
+        "marker-symbol": "rail",
+        "name": "Fajar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.770706,
+          1.384533
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#748578",
+        "marker-size": "small",
+        "marker-symbol": "rail",
+        "name": "Segar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.769542,
+          1.387775
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#748578",
+        "marker-size": "small",
+        "marker-symbol": "rail",
+        "name": "Jelapang"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.764414,
+          1.386711
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#748578",
+        "marker-size": "small",
+        "marker-symbol": "rail",
+        "name": "Senja"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.762292,
+          1.382675
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#748578",
+        "marker-size": "small",
+        "marker-symbol": "rail",
+        "name": "Ten Mile Junction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.760094,
+          1.380289
+        ]
+      }
+    }
+  ]
+}

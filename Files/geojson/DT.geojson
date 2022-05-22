@@ -1,0 +1,756 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#005EC5"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            103.761767,
+            1.378436
+          ],
+          [
+            103.764803,
+            1.368975
+          ],
+          [
+            103.767389,
+            1.362472
+          ],
+          [
+            103.76904,
+            1.35465
+          ],
+          [
+            103.775797,
+            1.341133
+          ],
+          [
+            103.783983,
+            1.335628
+          ],
+          [
+            103.797633,
+            1.330714
+          ],
+          [
+            103.807169,
+            1.326039
+          ],
+          [
+            103.815406,
+            1.322519
+          ],
+          [
+            103.825997,
+            1.320069
+          ],
+          [
+            103.838442,
+            1.312956
+          ],
+          [
+            103.849175,
+            1.306725
+          ],
+          [
+            103.852581,
+            1.303764
+          ],
+          [
+            103.85615,
+            1.300194
+          ],
+          [
+            103.861064,
+            1.293131
+          ],
+          [
+            103.859317,
+            1.282347
+          ],
+          [
+            103.852931,
+            1.279458
+          ],
+          [
+            103.848472,
+            1.282125
+          ],
+          [
+            103.843333,
+            1.284167
+          ],
+          [
+            103.844325,
+            1.292481
+          ],
+          [
+            103.850278,
+            1.298889
+          ],
+          [
+            103.855294,
+            1.305601
+          ],
+          [
+            103.861298,
+            1.314253
+          ],
+          [
+            103.871414,
+            1.321382
+          ],
+          [
+            103.882864,
+            1.327223
+          ],
+          [
+            103.890019,
+            1.32665
+          ],
+          [
+            103.899958,
+            1.330011
+          ],
+          [
+            103.908976,
+            1.334929
+          ],
+          [
+            103.917778,
+            1.336389
+          ],
+          [
+            103.930903,
+            1.336542
+          ],
+          [
+            103.938258,
+            1.345595
+          ],
+          [
+            103.945322,
+            1.352528
+          ],
+          [
+            103.954645,
+            1.356429
+          ],
+          [
+            103.9614,
+            1.3419
+          ],
+          [
+            103.961944,
+            1.335278
+          ],
+          [
+            103.9649,
+            1.3289
+          ],
+          [
+            103.95709,
+            1.32031
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#005EC5",
+        "marker-size": "small",
+        "marker-symbol": "rail",
+        "name": "Bukit Panjang"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.761767,
+          1.378436
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#005EC5",
+        "marker-size": "small",
+        "marker-symbol": "rail",
+        "name": "Cashew"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.764803,
+          1.368975
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#005EC5",
+        "marker-size": "small",
+        "marker-symbol": "rail",
+        "name": "Hillview"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.767389,
+          1.362472
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#005EC5",
+        "marker-size": "small",
+        "marker-symbol": "rail",
+        "name": "Hume"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.76904,
+          1.35465
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#005EC5",
+        "marker-size": "small",
+        "marker-symbol": "rail",
+        "name": "Beauty World"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.775797,
+          1.341133
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#005EC5",
+        "marker-size": "small",
+        "marker-symbol": "rail",
+        "name": "King Albert Park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.783983,
+          1.335628
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#005EC5",
+        "marker-size": "small",
+        "marker-symbol": "rail",
+        "name": "Sixth Avenue"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.797633,
+          1.330714
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#005EC5",
+        "marker-size": "small",
+        "marker-symbol": "rail",
+        "name": "Tan Kah Kee"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.807169,
+          1.326039
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#005EC5",
+        "marker-size": "small",
+        "marker-symbol": "rail",
+        "name": "Botanic Gardens"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.815406,
+          1.322519
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#005EC5",
+        "marker-size": "small",
+        "marker-symbol": "rail",
+        "name": "Stevens"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.825997,
+          1.320069
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#005EC5",
+        "marker-size": "small",
+        "marker-symbol": "rail",
+        "name": "Newton"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.838442,
+          1.312956
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#005EC5",
+        "marker-size": "small",
+        "marker-symbol": "rail",
+        "name": "Little India"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.849175,
+          1.306725
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#005EC5",
+        "marker-size": "small",
+        "marker-symbol": "rail",
+        "name": "Rochor"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.852581,
+          1.303764
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#005EC5",
+        "marker-size": "small",
+        "marker-symbol": "rail",
+        "name": "Bugis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.85615,
+          1.300194
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#005EC5",
+        "marker-size": "small",
+        "marker-symbol": "rail",
+        "name": "Promenade"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.861064,
+          1.293131
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#005EC5",
+        "marker-size": "small",
+        "marker-symbol": "rail",
+        "name": "Bayfront"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.859317,
+          1.282347
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#005EC5",
+        "marker-size": "small",
+        "marker-symbol": "rail",
+        "name": "Downtown"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.852931,
+          1.279458
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#005EC5",
+        "marker-size": "small",
+        "marker-symbol": "rail",
+        "name": "Telok Ayer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.848472,
+          1.282125
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#005EC5",
+        "marker-size": "small",
+        "marker-symbol": "rail",
+        "name": "Chinatown"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.843333,
+          1.284167
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#005EC5",
+        "marker-size": "small",
+        "marker-symbol": "rail",
+        "name": "Fort Canning"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.844325,
+          1.292481
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#005EC5",
+        "marker-size": "small",
+        "marker-symbol": "rail",
+        "name": "Bencoolen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.850278,
+          1.298889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#005EC5",
+        "marker-size": "small",
+        "marker-symbol": "rail",
+        "name": "Jalan Besar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.855294,
+          1.305601
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#005EC5",
+        "marker-size": "small",
+        "marker-symbol": "rail",
+        "name": "Bendemeer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.861298,
+          1.314253
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#005EC5",
+        "marker-size": "small",
+        "marker-symbol": "rail",
+        "name": "Geylang Bahru"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.871414,
+          1.321382
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#005EC5",
+        "marker-size": "small",
+        "marker-symbol": "rail",
+        "name": "Mattar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.882864,
+          1.327223
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#005EC5",
+        "marker-size": "small",
+        "marker-symbol": "rail",
+        "name": "MacPherson"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.890019,
+          1.32665
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#005EC5",
+        "marker-size": "small",
+        "marker-symbol": "rail",
+        "name": "Ubi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.899958,
+          1.330011
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#005EC5",
+        "marker-size": "small",
+        "marker-symbol": "rail",
+        "name": "Kaki Bukit"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.908976,
+          1.334929
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#005EC5",
+        "marker-size": "small",
+        "marker-symbol": "rail",
+        "name": "Bedok North"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.917778,
+          1.336389
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#005EC5",
+        "marker-size": "small",
+        "marker-symbol": "rail",
+        "name": "Bedok Reservoir"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.930903,
+          1.336542
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#005EC5",
+        "marker-size": "small",
+        "marker-symbol": "rail",
+        "name": "Tampines West"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.938258,
+          1.345595
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#005EC5",
+        "marker-size": "small",
+        "marker-symbol": "rail",
+        "name": "Tampines"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.945322,
+          1.352528
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#005EC5",
+        "marker-size": "small",
+        "marker-symbol": "rail",
+        "name": "Tampines East"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.954645,
+          1.356429
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#005EC5",
+        "marker-size": "small",
+        "marker-symbol": "rail",
+        "name": "Upper Changi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9614,
+          1.3419
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#005EC5",
+        "marker-size": "small",
+        "marker-symbol": "rail",
+        "name": "Expo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.961944,
+          1.335278
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#005EC5",
+        "marker-size": "small",
+        "marker-symbol": "rail",
+        "name": "Xilin"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9649,
+          1.3289
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#005EC5",
+        "marker-size": "small",
+        "marker-symbol": "rail",
+        "name": "Sungei Bedok"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.95709,
+          1.32031
+        ]
+      }
+    }
+  ]
+}

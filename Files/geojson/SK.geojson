@@ -1,0 +1,296 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#748578"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            103.895133,
+            1.391653
+          ],
+          [
+            103.900156,
+            1.394564
+          ],
+          [
+            103.906306,
+            1.391094
+          ],
+          [
+            103.905267,
+            1.387853
+          ],
+          [
+            103.902194,
+            1.383739
+          ],
+          [
+            103.897736,
+            1.383619
+          ],
+          [
+            103.893713,
+            1.39631
+          ],
+          [
+            103.888911,
+            1.398978
+          ],
+          [
+            103.881319,
+            1.399228
+          ],
+          [
+            103.874794,
+            1.399356
+          ],
+          [
+            103.876303,
+            1.393208
+          ],
+          [
+            103.879753,
+            1.394025
+          ],
+          [
+            103.885772,
+            1.391078
+          ],
+          [
+            103.890425,
+            1.386614
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#748578",
+        "marker-size": "small",
+        "marker-symbol": "rail",
+        "name": "Sengkang"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.895133,
+          1.391653
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#748578",
+        "marker-size": "small",
+        "marker-symbol": "rail",
+        "name": "Compassvale"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.900156,
+          1.394564
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#748578",
+        "marker-size": "small",
+        "marker-symbol": "rail",
+        "name": "Rumbia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.906306,
+          1.391094
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#748578",
+        "marker-size": "small",
+        "marker-symbol": "rail",
+        "name": "Bakau"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.905267,
+          1.387853
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#748578",
+        "marker-size": "small",
+        "marker-symbol": "rail",
+        "name": "Kangkar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.902194,
+          1.383739
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#748578",
+        "marker-size": "small",
+        "marker-symbol": "rail",
+        "name": "Ranggung"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.897736,
+          1.383619
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#748578",
+        "marker-size": "small",
+        "marker-symbol": "rail",
+        "name": "Cheng Lim"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.893713,
+          1.39631
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#748578",
+        "marker-size": "small",
+        "marker-symbol": "rail",
+        "name": "Farmway"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.888911,
+          1.398978
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#748578",
+        "marker-size": "small",
+        "marker-symbol": "rail",
+        "name": "Kupang"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.881319,
+          1.399228
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#748578",
+        "marker-size": "small",
+        "marker-symbol": "rail",
+        "name": "Thanggam"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.874794,
+          1.399356
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#748578",
+        "marker-size": "small",
+        "marker-symbol": "rail",
+        "name": "Fernvale"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.876303,
+          1.393208
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#748578",
+        "marker-size": "small",
+        "marker-symbol": "rail",
+        "name": "Layar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.879753,
+          1.394025
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#748578",
+        "marker-size": "small",
+        "marker-symbol": "rail",
+        "name": "Tongkang"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.885772,
+          1.391078
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#748578",
+        "marker-size": "small",
+        "marker-symbol": "rail",
+        "name": "Renjong"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.890425,
+          1.386614
+        ]
+      }
+    }
+  ]
+}

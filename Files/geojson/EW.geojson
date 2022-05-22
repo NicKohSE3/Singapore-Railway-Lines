@@ -1,0 +1,676 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#009743"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            103.949369,
+            1.372411
+          ],
+          [
+            103.945322,
+            1.352528
+          ],
+          [
+            103.953172,
+            1.343444
+          ],
+          [
+            103.946344,
+            1.327358
+          ],
+          [
+            103.930036,
+            1.324039
+          ],
+          [
+            103.912842,
+            1.320983
+          ],
+          [
+            103.903108,
+            1.319725
+          ],
+          [
+            103.892381,
+            1.317767
+          ],
+          [
+            103.882981,
+            1.316442
+          ],
+          [
+            103.8714,
+            1.311469
+          ],
+          [
+            103.863008,
+            1.307167
+          ],
+          [
+            103.85615,
+            1.300194
+          ],
+          [
+            103.852219,
+            1.293239
+          ],
+          [
+            103.851533,
+            1.283881
+          ],
+          [
+            103.845711,
+            1.276439
+          ],
+          [
+            103.839486,
+            1.280225
+          ],
+          [
+            103.826958,
+            1.286081
+          ],
+          [
+            103.81675,
+            1.289733
+          ],
+          [
+            103.806114,
+            1.294442
+          ],
+          [
+            103.798225,
+            1.302558
+          ],
+          [
+            103.790028,
+            1.307333
+          ],
+          [
+            103.778658,
+            1.311314
+          ],
+          [
+            103.765244,
+            1.315303
+          ],
+          [
+            103.742119,
+            1.333415
+          ],
+          [
+            103.732467,
+            1.342711
+          ],
+          [
+            103.721139,
+            1.344589
+          ],
+          [
+            103.706208,
+            1.338883
+          ],
+          [
+            103.697217,
+            1.337578
+          ],
+          [
+            103.678486,
+            1.327739
+          ],
+          [
+            103.6657,
+            1.3212
+          ],
+          [
+            103.649,
+            1.321139
+          ],
+          [
+            103.639611,
+            1.330056
+          ],
+          [
+            103.636806,
+            1.340278
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#009743",
+        "marker-size": "small",
+        "marker-symbol": "rail",
+        "name": "Pasir Ris"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.949369,
+          1.372411
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#009743",
+        "marker-size": "small",
+        "marker-symbol": "rail",
+        "name": "Tampines"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.945322,
+          1.352528
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#009743",
+        "marker-size": "small",
+        "marker-symbol": "rail",
+        "name": "Simei"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.953172,
+          1.343444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#009743",
+        "marker-size": "small",
+        "marker-symbol": "rail",
+        "name": "Tanah Merah"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.946344,
+          1.327358
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#009743",
+        "marker-size": "small",
+        "marker-symbol": "rail",
+        "name": "Bedok"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.930036,
+          1.324039
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#009743",
+        "marker-size": "small",
+        "marker-symbol": "rail",
+        "name": "Kembangan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.912842,
+          1.320983
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#009743",
+        "marker-size": "small",
+        "marker-symbol": "rail",
+        "name": "Eunos"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.903108,
+          1.319725
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#009743",
+        "marker-size": "small",
+        "marker-symbol": "rail",
+        "name": "Paya Lebar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.892381,
+          1.317767
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#009743",
+        "marker-size": "small",
+        "marker-symbol": "rail",
+        "name": "Aljunied"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.882981,
+          1.316442
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#009743",
+        "marker-size": "small",
+        "marker-symbol": "rail",
+        "name": "Kallang"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8714,
+          1.311469
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#009743",
+        "marker-size": "small",
+        "marker-symbol": "rail",
+        "name": "Lavender"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.863008,
+          1.307167
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#009743",
+        "marker-size": "small",
+        "marker-symbol": "rail",
+        "name": "Bugis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.85615,
+          1.300194
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#009743",
+        "marker-size": "small",
+        "marker-symbol": "rail",
+        "name": "City Hall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.852219,
+          1.293239
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#009743",
+        "marker-size": "small",
+        "marker-symbol": "rail",
+        "name": "Raffles Place"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.851533,
+          1.283881
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#009743",
+        "marker-size": "small",
+        "marker-symbol": "rail",
+        "name": "Tanjong Pagar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.845711,
+          1.276439
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#009743",
+        "marker-size": "small",
+        "marker-symbol": "rail",
+        "name": "Outram Park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.839486,
+          1.280225
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#009743",
+        "marker-size": "small",
+        "marker-symbol": "rail",
+        "name": "Tiong Bahru"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.826958,
+          1.286081
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#009743",
+        "marker-size": "small",
+        "marker-symbol": "rail",
+        "name": "Redhill"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.81675,
+          1.289733
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#009743",
+        "marker-size": "small",
+        "marker-symbol": "rail",
+        "name": "Queenstown"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.806114,
+          1.294442
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#009743",
+        "marker-size": "small",
+        "marker-symbol": "rail",
+        "name": "Commonwealth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.798225,
+          1.302558
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#009743",
+        "marker-size": "small",
+        "marker-symbol": "rail",
+        "name": "Buona Vista"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.790028,
+          1.307333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#009743",
+        "marker-size": "small",
+        "marker-symbol": "rail",
+        "name": "Dover"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.778658,
+          1.311314
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#009743",
+        "marker-size": "small",
+        "marker-symbol": "rail",
+        "name": "Clementi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.765244,
+          1.315303
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#009743",
+        "marker-size": "small",
+        "marker-symbol": "rail",
+        "name": "Jurong East"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.742119,
+          1.333415
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#009743",
+        "marker-size": "small",
+        "marker-symbol": "rail",
+        "name": "Chinese Garden"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.732467,
+          1.342711
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#009743",
+        "marker-size": "small",
+        "marker-symbol": "rail",
+        "name": "Lakeside"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.721139,
+          1.344589
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#009743",
+        "marker-size": "small",
+        "marker-symbol": "rail",
+        "name": "Boon Lay"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.706208,
+          1.338883
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#009743",
+        "marker-size": "small",
+        "marker-symbol": "rail",
+        "name": "Pioneer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.697217,
+          1.337578
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#009743",
+        "marker-size": "small",
+        "marker-symbol": "rail",
+        "name": "Joo Koon"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.678486,
+          1.327739
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#009743",
+        "marker-size": "small",
+        "marker-symbol": "rail",
+        "name": "Gul Circle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.6657,
+          1.3212
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#009743",
+        "marker-size": "small",
+        "marker-symbol": "rail",
+        "name": "Tuas Crescent"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.649,
+          1.321139
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#009743",
+        "marker-size": "small",
+        "marker-symbol": "rail",
+        "name": "Tuas West Road"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.639611,
+          1.330056
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#009743",
+        "marker-size": "small",
+        "marker-symbol": "rail",
+        "name": "Tuas Link"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.636806,
+          1.340278
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,356 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#9A00AC"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            103.82225,
+            1.265297
+          ],
+          [
+            103.839486,
+            1.280225
+          ],
+          [
+            103.843333,
+            1.284167
+          ],
+          [
+            103.846606,
+            1.288708
+          ],
+          [
+            103.845736,
+            1.299156
+          ],
+          [
+            103.849175,
+            1.306725
+          ],
+          [
+            103.854028,
+            1.312314
+          ],
+          [
+            103.861722,
+            1.319483
+          ],
+          [
+            103.869058,
+            1.331161
+          ],
+          [
+            103.870744,
+            1.339181
+          ],
+          [
+            103.873092,
+            1.349944
+          ],
+          [
+            103.884864,
+            1.360214
+          ],
+          [
+            103.892161,
+            1.371292
+          ],
+          [
+            103.892789,
+            1.382728
+          ],
+          [
+            103.895133,
+            1.391653
+          ],
+          [
+            103.9025,
+            1.405278
+          ],
+          [
+            103.9133,
+            1.4159
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#9A00AC",
+        "marker-size": "small",
+        "marker-symbol": "rail",
+        "name": "Harbourfront"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.82225,
+          1.265297
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#9A00AC",
+        "marker-size": "small",
+        "marker-symbol": "rail",
+        "name": "Outram Park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.839486,
+          1.280225
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#9A00AC",
+        "marker-size": "small",
+        "marker-symbol": "rail",
+        "name": "Chinatown"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.843333,
+          1.284167
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#9A00AC",
+        "marker-size": "small",
+        "marker-symbol": "rail",
+        "name": "Clarke Quay"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.846606,
+          1.288708
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#9A00AC",
+        "marker-size": "small",
+        "marker-symbol": "rail",
+        "name": "Dhoby Ghaut"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.845736,
+          1.299156
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#9A00AC",
+        "marker-size": "small",
+        "marker-symbol": "rail",
+        "name": "Little India"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.849175,
+          1.306725
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#9A00AC",
+        "marker-size": "small",
+        "marker-symbol": "rail",
+        "name": "Farrer Park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.854028,
+          1.312314
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#9A00AC",
+        "marker-size": "small",
+        "marker-symbol": "rail",
+        "name": "Boon Keng"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.861722,
+          1.319483
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#9A00AC",
+        "marker-size": "small",
+        "marker-symbol": "rail",
+        "name": "Potong Pasir"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.869058,
+          1.331161
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#9A00AC",
+        "marker-size": "small",
+        "marker-symbol": "rail",
+        "name": "Woodleigh"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.870744,
+          1.339181
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#9A00AC",
+        "marker-size": "small",
+        "marker-symbol": "rail",
+        "name": "Serangoon"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.873092,
+          1.349944
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#9A00AC",
+        "marker-size": "small",
+        "marker-symbol": "rail",
+        "name": "Kovan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.884864,
+          1.360214
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#9A00AC",
+        "marker-size": "small",
+        "marker-symbol": "rail",
+        "name": "Hougang"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.892161,
+          1.371292
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#9A00AC",
+        "marker-size": "small",
+        "marker-symbol": "rail",
+        "name": "Buangkok"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.892789,
+          1.382728
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#9A00AC",
+        "marker-size": "small",
+        "marker-symbol": "rail",
+        "name": "Sengkang"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.895133,
+          1.391653
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#9A00AC",
+        "marker-size": "small",
+        "marker-symbol": "rail",
+        "name": "Punggol"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9025,
+          1.405278
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#9A00AC",
+        "marker-size": "small",
+        "marker-symbol": "rail",
+        "name": "Punggol Coast"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9133,
+          1.4159
+        ]
+      }
+    }
+  ]
+}

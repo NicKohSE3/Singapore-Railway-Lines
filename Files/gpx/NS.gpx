@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1">
+    <!-- Enter RTE below this line (If you're in the JapanTrains directory) -->
+    <rte>
+        <!-- Paste the copied 'rtept's from running CoordinatesFormatter_RTE.js here-->
+        <rtept lat="1.333415" lon="103.742119"></rtept>
+        <rtept lat="1.349073" lon="103.749664"></rtept>
+        <rtept lat="1.358702" lon="103.751787"></rtept>
+        <rtept lat="1.3697" lon="103.7479"></rtept>
+        <rtept lat="1.385092" lon="103.744322"></rtept>
+        <rtept lat="1.396986" lon="103.747239"></rtept>
+        <rtept lat="1.425047" lon="103.761853"></rtept>
+        <rtept lat="1.432636" lon="103.774283"></rtept>
+        <rtept lat="1.437094" lon="103.786483"></rtept>
+        <rtept lat="1.440689" lon="103.800933"></rtept>
+        <rtept lat="1.449025" lon="103.820153"></rtept>
+        <rtept lat="1.443056" lon="103.829722"></rtept>
+        <rtept lat="1.429464" lon="103.835239"></rtept>
+        <rtept lat="1.417167" lon="103.8329"></rtept>
+        <rtept lat="1.381906" lon="103.844817"></rtept>
+        <rtept lat="1.370017" lon="103.84945"></rtept>
+        <rtept lat="1.351236" lon="103.848456"></rtept>
+        <rtept lat="1.340339" lon="103.846725"></rtept>
+        <rtept lat="1.332778" lon="103.8475"></rtept>
+        <rtept lat="1.320394" lon="103.843689"></rtept>
+        <rtept lat="1.312956" lon="103.838442"></rtept>
+        <rtept lat="1.3032" lon="103.8316"></rtept>
+        <rtept lat="1.300514" lon="103.839028"></rtept>
+        <rtept lat="1.299156" lon="103.845736"></rtept>
+        <rtept lat="1.293239" lon="103.852219"></rtept>
+        <rtept lat="1.283881" lon="103.851533"></rtept>
+        <rtept lat="1.276097" lon="103.854675"></rtept>
+        <rtept lat="1.270944" lon="103.86325"></rtept>
+    </rte>
+
+    <!-- Paste the respective 'wpt's here -->
+    <wpt lat="1.333415" lon="103.742119">
+        <name>Jurong East</name>
+    </wpt>
+    <wpt lat="1.349073" lon="103.749664">
+        <name>Bukit Batok</name>
+    </wpt>
+    <wpt lat="1.358702" lon="103.751787">
+        <name>Bukit Gombak</name>
+    </wpt>
+    <wpt lat="1.3697" lon="103.7479">
+        <name>Brickland</name>
+    </wpt>
+    <wpt lat="1.385092" lon="103.744322">
+        <name>Choa Chu Kang</name>
+    </wpt>
+    <wpt lat="1.396986" lon="103.747239">
+        <name>Yew Tee</name>
+    </wpt>
+    <wpt lat="1.425047" lon="103.761853">
+        <name>Kranji</name>
+    </wpt>
+    <wpt lat="1.432636" lon="103.774283">
+        <name>Marsiling</name>
+    </wpt>
+    <wpt lat="1.437094" lon="103.786483">
+        <name>Woodlands</name>
+    </wpt>
+    <wpt lat="1.440689" lon="103.800933">
+        <name>Admiralty</name>
+    </wpt>
+    <wpt lat="1.449025" lon="103.820153">
+        <name>Sembawang</name>
+    </wpt>
+    <wpt lat="1.443056" lon="103.829722">
+        <name>Canberra</name>
+    </wpt>
+    <wpt lat="1.429464" lon="103.835239">
+        <name>Yishun</name>
+    </wpt>
+    <wpt lat="1.417167" lon="103.8329">
+        <name>Khatib</name>
+    </wpt>
+    <wpt lat="1.381906" lon="103.844817">
+        <name>Yio Chu Kang</name>
+    </wpt>
+    <wpt lat="1.370017" lon="103.84945">
+        <name>Ang Mo Kio</name>
+    </wpt>
+    <wpt lat="1.351236" lon="103.848456">
+        <name>Bishan</name>
+    </wpt>
+    <wpt lat="1.340339" lon="103.846725">
+        <name>Braddell</name>
+    </wpt>
+    <wpt lat="1.332778" lon="103.8475">
+        <name>Toa Payoh</name>
+    </wpt>
+    <wpt lat="1.320394" lon="103.843689">
+        <name>Novena</name>
+    </wpt>
+    <wpt lat="1.312956" lon="103.838442">
+        <name>Newton</name>
+    </wpt>
+    <wpt lat="1.3032" lon="103.8316">
+        <name>Orchard</name>
+    </wpt>
+    <wpt lat="1.300514" lon="103.839028">
+        <name>Somerset</name>
+    </wpt>
+    <wpt lat="1.299156" lon="103.845736">
+        <name>Dhoby Ghaut</name>
+    </wpt>
+    <wpt lat="1.293239" lon="103.852219">
+        <name>City Hall</name>
+    </wpt>
+    <wpt lat="1.283881" lon="103.851533">
+        <name>Raffles Place</name>
+    </wpt>
+    <wpt lat="1.276097" lon="103.854675">
+        <name>Marina Bay</name>
+    </wpt>
+    <wpt lat="1.270944" lon="103.86325">
+        <name>Marina South Pier</name>
+    </wpt>
+</gpx>

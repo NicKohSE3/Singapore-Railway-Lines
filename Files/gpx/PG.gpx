@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1">
+    <!-- Enter RTE below this line (If you're in the JapanTrains directory) -->
+    <rte>
+        <!-- Paste the copied 'rtept's from running CoordinatesFormatter_RTE.js here-->
+        <rtept lat="1.405278" lon="103.9025"></rtept>
+        <rtept lat="1.398111" lon="103.905725"></rtept>
+        <rtept lat="1.397364" lon="103.908592"></rtept>
+        <rtept lat="1.394647" lon="103.912039"></rtept>
+        <rtept lat="1.394439" lon="103.916772"></rtept>
+        <rtept lat="1.399686" lon="103.916353"></rtept>
+        <rtept lat="1.402369" lon="103.912422"></rtept>
+        <rtept lat="1.404814" lon="103.908875"></rtept>
+        <rtept lat="1.40975" lon="103.904583"></rtept>
+        <rtept lat="1.4128" lon="103.906233"></rtept>
+        <rtept lat="1.416883" lon="103.906353"></rtept>
+        <rtept lat="1.41595" lon="103.901856"></rtept>
+        <rtept lat="1.411878" lon="103.900028"></rtept>
+        <rtept lat="1.408057" lon="103.898527"></rtept>
+        <rtept lat="1.405417" lon="103.896944"></rtept>
+    </rte>
+
+    <!-- Paste the respective 'wpt's here -->
+    <wpt lat="1.405278" lon="103.9025">
+        <name>Punggol</name>
+    </wpt>
+    <wpt lat="1.398111" lon="103.905725">
+        <name>Cove</name>
+    </wpt>
+    <wpt lat="1.397364" lon="103.908592">
+        <name>Meridian</name>
+    </wpt>
+    <wpt lat="1.394647" lon="103.912039">
+        <name>Coral Edge</name>
+    </wpt>
+    <wpt lat="1.394439" lon="103.916772">
+        <name>Riviera</name>
+    </wpt>
+    <wpt lat="1.399686" lon="103.916353">
+        <name>Kadaloor</name>
+    </wpt>
+    <wpt lat="1.402369" lon="103.912422">
+        <name>Oasis</name>
+    </wpt>
+    <wpt lat="1.404814" lon="103.908875">
+        <name>Damai</name>
+    </wpt>
+    <wpt lat="1.40975" lon="103.904583">
+        <name>Sam Kee</name>
+    </wpt>
+    <wpt lat="1.4128" lon="103.906233">
+        <name>Teck Lee</name>
+    </wpt>
+    <wpt lat="1.416883" lon="103.906353">
+        <name>Punggol Point</name>
+    </wpt>
+    <wpt lat="1.41595" lon="103.901856">
+        <name>Samudera</name>
+    </wpt>
+    <wpt lat="1.411878" lon="103.900028">
+        <name>Nibong</name>
+    </wpt>
+    <wpt lat="1.408057" lon="103.898527">
+        <name>Sumang</name>
+    </wpt>
+    <wpt lat="1.405417" lon="103.896944">
+        <name>Soo Teck</name>
+    </wpt>
+</gpx>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1">
+    <!-- Enter RTE below this line (If you're in the JapanTrains directory) -->
+    <rte>
+        <!-- Paste the copied 'rtept's from running CoordinatesFormatter_RTE.js here-->
+        <rtept lat="1.385092" lon="103.744322"></rtept>
+        <rtept lat="1.380286" lon="103.745203"></rtept>
+        <rtept lat="1.376694" lon="103.753567"></rtept>
+        <rtept lat="1.378625" lon="103.757931"></rtept>
+        <rtept lat="1.378436" lon="103.761767"></rtept>
+        <rtept lat="1.377739" lon="103.766564"></rtept>
+        <rtept lat="1.376161" lon="103.771203"></rtept>
+        <rtept lat="1.380044" lon="103.772544"></rtept>
+        <rtept lat="1.384533" lon="103.770706"></rtept>
+        <rtept lat="1.387775" lon="103.769542"></rtept>
+        <rtept lat="1.386711" lon="103.764414"></rtept>
+        <rtept lat="1.382675" lon="103.762292"></rtept>
+        <rtept lat="1.380289" lon="103.760094"></rtept>
+    </rte>
+
+    <!-- Paste the respective 'wpt's here -->
+    <wpt lat="1.385092" lon="103.744322">
+        <name>Choa Chu Kang</name>
+    </wpt>
+    <wpt lat="1.380286" lon="103.745203">
+        <name>South View</name>
+    </wpt>
+    <wpt lat="1.376694" lon="103.753567">
+        <name>Teck Whye</name>
+    </wpt>
+    <wpt lat="1.378625" lon="103.757931">
+        <name>Phoenix</name>
+    </wpt>
+    <wpt lat="1.378436" lon="103.761767">
+        <name>Bukit Panjang</name>
+    </wpt>
+    <wpt lat="1.377739" lon="103.766564">
+        <name>Petir</name>
+    </wpt>
+    <wpt lat="1.376161" lon="103.771203">
+        <name>Pending</name>
+    </wpt>
+    <wpt lat="1.380044" lon="103.772544">
+        <name>Bangkit</name>
+    </wpt>
+    <wpt lat="1.384533" lon="103.770706">
+        <name>Fajar</name>
+    </wpt>
+    <wpt lat="1.387775" lon="103.769542">
+        <name>Segar</name>
+    </wpt>
+    <wpt lat="1.386711" lon="103.764414">
+        <name>Jelapang</name>
+    </wpt>
+    <wpt lat="1.382675" lon="103.762292">
+        <name>Senja</name>
+    </wpt>
+    <wpt lat="1.380289" lon="103.760094">
+        <name>Ten Mile Junction</name>
+    </wpt>
+
+</gpx>

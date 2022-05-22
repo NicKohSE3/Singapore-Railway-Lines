@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1">
+    <!-- Enter RTE below this line (If you're in the JapanTrains directory) -->
+    <rte>
+        <!-- Paste the copied 'rtept's from running CoordinatesFormatter_RTE.js here-->
+        <rtept lat="1.372411" lon="103.949369"></rtept>
+        <rtept lat="1.352528" lon="103.945322"></rtept>
+        <rtept lat="1.343444" lon="103.953172"></rtept>
+        <rtept lat="1.327358" lon="103.946344"></rtept>
+        <rtept lat="1.324039" lon="103.930036"></rtept>
+        <rtept lat="1.320983" lon="103.912842"></rtept>
+        <rtept lat="1.319725" lon="103.903108"></rtept>
+        <rtept lat="1.317767" lon="103.892381"></rtept>
+        <rtept lat="1.316442" lon="103.882981"></rtept>
+        <rtept lat="1.311469" lon="103.8714"></rtept>
+        <rtept lat="1.307167" lon="103.863008"></rtept>
+        <rtept lat="1.300194" lon="103.85615"></rtept>
+        <rtept lat="1.293239" lon="103.852219"></rtept>
+        <rtept lat="1.283881" lon="103.851533"></rtept>
+        <rtept lat="1.276439" lon="103.845711"></rtept>
+        <rtept lat="1.280225" lon="103.839486"></rtept>
+        <rtept lat="1.286081" lon="103.826958"></rtept>
+        <rtept lat="1.289733" lon="103.81675"></rtept>
+        <rtept lat="1.294442" lon="103.806114"></rtept>
+        <rtept lat="1.302558" lon="103.798225"></rtept>
+        <rtept lat="1.307333" lon="103.790028"></rtept>
+        <rtept lat="1.311314" lon="103.778658"></rtept>
+        <rtept lat="1.315303" lon="103.765244"></rtept>
+        <rtept lat="1.333415" lon="103.742119"></rtept>
+        <rtept lat="1.342711" lon="103.732467"></rtept>
+        <rtept lat="1.344589" lon="103.721139"></rtept>
+        <rtept lat="1.338883" lon="103.706208"></rtept>
+        <rtept lat="1.337578" lon="103.697217"></rtept>
+        <rtept lat="1.327739" lon="103.678486"></rtept>
+        <rtept lat="1.3212" lon="103.6657"></rtept>
+        <rtept lat="1.321139" lon="103.649"></rtept>
+        <rtept lat="1.330056" lon="103.639611"></rtept>
+        <rtept lat="1.340278" lon="103.636806"></rtept>
+    </rte>
+
+    <!-- Paste the respective 'wpt's here -->
+    <wpt lat="1.372411" lon="103.949369">
+        <name>Pasir Ris</name>
+    </wpt>
+    <wpt lat="1.352528" lon="103.945322">
+        <name>Tampines</name>
+    </wpt>
+    <wpt lat="1.343444" lon="103.953172">
+        <name>Simei</name>
+    </wpt>
+    <wpt lat="1.327358" lon="103.946344">
+        <name>Tanah Merah</name>
+    </wpt>
+    <wpt lat="1.324039" lon="103.930036">
+        <name>Bedok</name>
+    </wpt>
+    <wpt lat="1.320983" lon="103.912842">
+        <name>Kembangan</name>
+    </wpt>
+    <wpt lat="1.319725" lon="103.903108">
+        <name>Eunos</name>
+    </wpt>
+    <wpt lat="1.317767" lon="103.892381">
+        <name>Paya Lebar</name>
+    </wpt>
+    <wpt lat="1.316442" lon="103.882981">
+        <name>Aljunied</name>
+    </wpt>
+    <wpt lat="1.311469" lon="103.8714">
+        <name>Kallang</name>
+    </wpt>
+    <wpt lat="1.307167" lon="103.863008">
+        <name>Lavender</name>
+    </wpt>
+    <wpt lat="1.300194" lon="103.85615">
+        <name>Bugis</name>
+    </wpt>
+    <wpt lat="1.293239" lon="103.852219">
+        <name>City Hall</name>
+    </wpt>
+    <wpt lat="1.283881" lon="103.851533">
+        <name>Raffles Place</name>
+    </wpt>
+    <wpt lat="1.276439" lon="103.845711">
+        <name>Tanjong Pagar</name>
+    </wpt>
+    <wpt lat="1.280225" lon="103.839486">
+        <name>Outram Park</name>
+    </wpt>
+    <wpt lat="1.286081" lon="103.826958">
+        <name>Tiong Bahru</name>
+    </wpt>
+    <wpt lat="1.289733" lon="103.81675">
+        <name>Redhill</name>
+    </wpt>
+    <wpt lat="1.294442" lon="103.806114">
+        <name>Queenstown</name>
+    </wpt>
+    <wpt lat="1.302558" lon="103.798225">
+        <name>Commonwealth</name>
+    </wpt>
+    <wpt lat="1.307333" lon="103.790028">
+        <name>Buona Vista</name>
+    </wpt>
+    <wpt lat="1.311314" lon="103.778658">
+        <name>Dover</name>
+    </wpt>
+    <wpt lat="1.315303" lon="103.765244">
+        <name>Clementi</name>
+    </wpt>
+    <wpt lat="1.333415" lon="103.742119">
+        <name>Jurong East</name>
+    </wpt>
+    <wpt lat="1.342711" lon="103.732467">
+        <name>Chinese Garden</name>
+    </wpt>
+    <wpt lat="1.344589" lon="103.721139">
+        <name>Lakeside</name>
+    </wpt>
+    <wpt lat="1.338883" lon="103.706208">
+        <name>Boon Lay</name>
+    </wpt>
+    <wpt lat="1.337578" lon="103.697217">
+        <name>Pioneer</name>
+    </wpt>
+    <wpt lat="1.327739" lon="103.678486">
+        <name>Joo Koon</name>
+    </wpt>
+    <wpt lat="1.3212" lon="103.6657">
+        <name>Gul Circle</name>
+    </wpt>
+    <wpt lat="1.321139" lon="103.649">
+        <name>Tuas Crescent</name>
+    </wpt>
+    <wpt lat="1.330056" lon="103.639611">
+        <name>Tuas West Road</name>
+    </wpt>
+    <wpt lat="1.340278" lon="103.636806">
+        <name>Tuas Link</name>
+    </wpt>
+</gpx>

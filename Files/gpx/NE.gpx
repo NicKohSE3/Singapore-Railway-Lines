@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1">
+    <!-- Enter RTE below this line (If you're in the JapanTrains directory) -->
+    <rte>
+        <!-- Paste the copied 'rtept's from running CoordinatesFormatter_RTE.js here-->
+        <rtept lat="1.265297" lon="103.82225"></rtept>
+        <rtept lat="1.280225" lon="103.839486"></rtept>
+        <rtept lat="1.284167" lon="103.843333"></rtept>
+        <rtept lat="1.288708" lon="103.846606"></rtept>
+        <rtept lat="1.299156" lon="103.845736"></rtept>
+        <rtept lat="1.306725" lon="103.849175"></rtept>
+        <rtept lat="1.312314" lon="103.854028"></rtept>
+        <rtept lat="1.319483" lon="103.861722"></rtept>
+        <rtept lat="1.331161" lon="103.869058"></rtept>
+        <rtept lat="1.339181" lon="103.870744"></rtept>
+        <rtept lat="1.349944" lon="103.873092"></rtept>
+        <rtept lat="1.360214" lon="103.884864"></rtept>
+        <rtept lat="1.371292" lon="103.892161"></rtept>
+        <rtept lat="1.382728" lon="103.892789"></rtept>
+        <rtept lat="1.391653" lon="103.895133"></rtept>
+        <rtept lat="1.405278" lon="103.9025"></rtept>
+        <rtept lat="1.4159" lon="103.9133"></rtept>
+    </rte>
+
+    <!-- Paste the respective 'wpt's here -->
+    <wpt lat="1.265297" lon="103.82225">
+        <name>Harbourfront</name>
+    </wpt>
+    <wpt lat="1.280225" lon="103.839486">
+        <name>Outram Park</name>
+    </wpt>
+    <wpt lat="1.284167" lon="103.843333">
+        <name>Chinatown</name>
+    </wpt>
+    <wpt lat="1.288708" lon="103.846606">
+        <name>Clarke Quay</name>
+    </wpt>
+    <wpt lat="1.299156" lon="103.845736">
+        <name>Dhoby Ghaut</name>
+    </wpt>
+    <wpt lat="1.306725" lon="103.849175">
+        <name>Little India</name>
+    </wpt>
+    <wpt lat="1.312314" lon="103.854028">
+        <name>Farrer Park</name>
+    </wpt>
+    <wpt lat="1.319483" lon="103.861722">
+        <name>Boon Keng</name>
+    </wpt>
+    <wpt lat="1.331161" lon="103.869058">
+        <name>Potong Pasir</name>
+    </wpt>
+    <wpt lat="1.339181" lon="103.870744">
+        <name>Woodleigh</name>
+    </wpt>
+    <wpt lat="1.349944" lon="103.873092">
+        <name>Serangoon</name>
+    </wpt>
+    <wpt lat="1.360214" lon="103.884864">
+        <name>Kovan</name>
+    </wpt>
+    <wpt lat="1.371292" lon="103.892161">
+        <name>Hougang</name>
+    </wpt>
+    <wpt lat="1.382728" lon="103.892789">
+        <name>Buangkok</name>
+    </wpt>
+    <wpt lat="1.391653" lon="103.895133">
+        <name>Sengkang</name>
+    </wpt>
+    <wpt lat="1.405278" lon="103.9025">
+        <name>Punggol</name>
+    </wpt>
+    <wpt lat="1.4159" lon="103.9133">
+        <name>Punggol Coast</name>
+    </wpt>
+
+</gpx>

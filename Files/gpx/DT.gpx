@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1">
+    <!-- Enter RTE below this line (If you're in the JapanTrains directory) -->
+    <rte>
+        <!-- Paste the copied 'rtept's from running CoordinatesFormatter_RTE.js here-->
+        <rtept lat="1.378436" lon="103.761767"></rtept>
+        <rtept lat="1.368975" lon="103.764803"></rtept>
+        <rtept lat="1.362472" lon="103.767389"></rtept>
+        <rtept lat="1.35465" lon="103.76904"></rtept>
+        <rtept lat="1.341133" lon="103.775797"></rtept>
+        <rtept lat="1.335628" lon="103.783983"></rtept>
+        <rtept lat="1.330714" lon="103.797633"></rtept>
+        <rtept lat="1.326039" lon="103.807169"></rtept>
+        <rtept lat="1.322519" lon="103.815406"></rtept>
+        <rtept lat="1.320069" lon="103.825997"></rtept>
+        <rtept lat="1.312956" lon="103.838442"></rtept>
+        <rtept lat="1.306725" lon="103.849175"></rtept>
+        <rtept lat="1.303764" lon="103.852581"></rtept>
+        <rtept lat="1.300194" lon="103.85615"></rtept>
+        <rtept lat="1.293131" lon="103.861064"></rtept>
+        <rtept lat="1.282347" lon="103.859317"></rtept>
+        <rtept lat="1.279458" lon="103.852931"></rtept>
+        <rtept lat="1.282125" lon="103.848472"></rtept>
+        <rtept lat="1.284167" lon="103.843333"></rtept>
+        <rtept lat="1.292481" lon="103.844325"></rtept>
+        <rtept lat="1.298889" lon="103.850278"></rtept>
+        <rtept lat="1.305601" lon="103.855294"></rtept>
+        <rtept lat="1.314253" lon="103.861298"></rtept>
+        <rtept lat="1.321382" lon="103.871414"></rtept>
+        <rtept lat="1.327223" lon="103.882864"></rtept>
+        <rtept lat="1.32665" lon="103.890019"></rtept>
+        <rtept lat="1.330011" lon="103.899958"></rtept>
+        <rtept lat="1.334929" lon="103.908976"></rtept>
+        <rtept lat="1.336389" lon="103.917778"></rtept>
+        <rtept lat="1.336542" lon="103.930903"></rtept>
+        <rtept lat="1.345595" lon="103.938258"></rtept>
+        <rtept lat="1.352528" lon="103.945322"></rtept>
+        <rtept lat="1.356429" lon="103.954645"></rtept>
+        <rtept lat="1.3419" lon="103.9614"></rtept>
+        <rtept lat="1.335278" lon="103.961944"></rtept>
+        <rtept lat="1.3289" lon="103.9649"></rtept>
+        <rtept lat="1.32031" lon="103.95709"></rtept>
+    </rte>
+
+    <!-- Paste the respective 'wpt's here -->
+    <wpt lat="1.378436" lon="103.761767">
+        <name>Bukit Panjang</name>
+    </wpt>
+    <wpt lat="1.368975" lon="103.764803">
+        <name>Cashew</name>
+    </wpt>
+    <wpt lat="1.362472" lon="103.767389">
+        <name>Hillview</name>
+    </wpt>
+    <wpt lat="1.35465" lon="103.76904">
+        <name>Hume</name>
+    </wpt>
+    <wpt lat="1.341133" lon="103.775797">
+        <name>Beauty World</name>
+    </wpt>
+    <wpt lat="1.335628" lon="103.783983">
+        <name>King Albert Park</name>
+    </wpt>
+    <wpt lat="1.330714" lon="103.797633">
+        <name>Sixth Avenue</name>
+    </wpt>
+    <wpt lat="1.326039" lon="103.807169">
+        <name>Tan Kah Kee</name>
+    </wpt>
+    <wpt lat="1.322519" lon="103.815406">
+        <name>Botanic Gardens</name>
+    </wpt>
+    <wpt lat="1.320069" lon="103.825997">
+        <name>Stevens</name>
+    </wpt>
+    <wpt lat="1.312956" lon="103.838442">
+        <name>Newton</name>
+    </wpt>
+    <wpt lat="1.306725" lon="103.849175">
+        <name>Little India</name>
+    </wpt>
+    <wpt lat="1.303764" lon="103.852581">
+        <name>Rochor</name>
+    </wpt>
+    <wpt lat="1.300194" lon="103.85615">
+        <name>Bugis</name>
+    </wpt>
+    <wpt lat="1.293131" lon="103.861064">
+        <name>Promenade</name>
+    </wpt>
+    <wpt lat="1.282347" lon="103.859317">
+        <name>Bayfront</name>
+    </wpt>
+    <wpt lat="1.279458" lon="103.852931">
+        <name>Downtown</name>
+    </wpt>
+    <wpt lat="1.282125" lon="103.848472">
+        <name>Telok Ayer</name>
+    </wpt>
+    <wpt lat="1.284167" lon="103.843333">
+        <name>Chinatown</name>
+    </wpt>
+    <wpt lat="1.292481" lon="103.844325">
+        <name>Fort Canning</name>
+    </wpt>
+    <wpt lat="1.298889" lon="103.850278">
+        <name>Bencoolen</name>
+    </wpt>
+    <wpt lat="1.305601" lon="103.855294">
+        <name>Jalan Besar</name>
+    </wpt>
+    <wpt lat="1.314253" lon="103.861298">
+        <name>Bendemeer</name>
+    </wpt>
+    <wpt lat="1.321382" lon="103.871414">
+        <name>Geylang Bahru</name>
+    </wpt>
+    <wpt lat="1.327223" lon="103.882864">
+        <name>Mattar</name>
+    </wpt>
+    <wpt lat="1.32665" lon="103.890019">
+        <name>MacPherson</name>
+    </wpt>
+    <wpt lat="1.330011" lon="103.899958">
+        <name>Ubi</name>
+    </wpt>
+    <wpt lat="1.334929" lon="103.908976">
+        <name>Kaki Bukit</name>
+    </wpt>
+    <wpt lat="1.336389" lon="103.917778">
+        <name>Bedok North</name>
+    </wpt>
+    <wpt lat="1.336542" lon="103.930903">
+        <name>Bedok Reservoir</name>
+    </wpt>
+    <wpt lat="1.345595" lon="103.938258">
+        <name>Tampines West</name>
+    </wpt>
+    <wpt lat="1.352528" lon="103.945322">
+        <name>Tampines</name>
+    </wpt>
+    <wpt lat="1.356429" lon="103.954645">
+        <name>Tampines East</name>
+    </wpt>
+    <wpt lat="1.3419" lon="103.9614">
+        <name>Upper Changi</name>
+    </wpt>
+    <wpt lat="1.335278" lon="103.961944">
+        <name>Expo</name>
+    </wpt>
+    <wpt lat="1.3289" lon="103.9649">
+        <name>Xilin</name>
+    </wpt>
+    <wpt lat="1.32031" lon="103.95709">
+        <name>Sungei Bedok</name>
+    </wpt>
+</gpx>

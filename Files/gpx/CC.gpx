@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1">
+    <!-- Enter RTE below this line (If you're in the JapanTrains directory) -->
+    <rte>
+        <!-- Paste the copied 'rtept's from running CoordinatesFormatter_RTE.js here-->
+        <rtept lat="1.299156" lon="103.845736"></rtept>
+        <rtept lat="1.296931" lon="103.850631"></rtept>
+        <rtept lat="1.293436" lon="103.855381"></rtept>
+        <rtept lat="1.293131" lon="103.861064"></rtept>
+        <rtept lat="1.299722" lon="103.863611"></rtept>
+        <rtept lat="1.302778" lon="103.875278"></rtept>
+        <rtept lat="1.306306" lon="103.882531"></rtept>
+        <rtept lat="1.308289" lon="103.888253"></rtept>
+        <rtept lat="1.317767" lon="103.892381"></rtept>
+        <rtept lat="1.32665" lon="103.890019"></rtept>
+        <rtept lat="1.335833" lon="103.887942"></rtept>
+        <rtept lat="1.342756" lon="103.879697"></rtept>
+        <rtept lat="1.349944" lon="103.873092"></rtept>
+        <rtept lat="1.351636" lon="103.864064"></rtept>
+        <rtept lat="1.351236" lon="103.848456"></rtept>
+        <rtept lat="1.349078" lon="103.839492"></rtept>
+        <rtept lat="1.337761" lon="103.839447"></rtept>
+        <rtept lat="1.333639" lon="103.830075"></rtept>
+        <rtept lat="1.322519" lon="103.815406"></rtept>
+        <rtept lat="1.317319" lon="103.807431"></rtept>
+        <rtept lat="1.312078" lon="103.796208"></rtept>
+        <rtept lat="1.307333" lon="103.790028"></rtept>
+        <rtept lat="1.299331" lon="103.787067"></rtept>
+        <rtept lat="1.293383" lon="103.784394"></rtept>
+        <rtept lat="1.282386" lon="103.781867"></rtept>
+        <rtept lat="1.276167" lon="103.791358"></rtept>
+        <rtept lat="1.272267" lon="103.802908"></rtept>
+        <rtept lat="1.270572" lon="103.809678"></rtept>
+        <rtept lat="1.265297" lon="103.82225"></rtept>
+        <rtept lat="1.269988" lon="103.830385"></rtept>
+        <rtept lat="1.272814" lon="103.836659"></rtept>
+        <rtept lat="1.273254" lon="103.847298"></rtept>
+        <rtept lat="1.276097" lon="103.854675"></rtept>
+        <rtept lat="1.282347" lon="103.859317"></rtept>
+    </rte>
+
+    <!-- Paste the respective 'wpt's here -->
+    <wpt lat="1.299156" lon="103.845736">
+        <name>Dhoby Ghaut</name>
+    </wpt>
+    <wpt lat="1.296931" lon="103.850631">
+        <name>Bras Basah</name>
+    </wpt>
+    <wpt lat="1.293436" lon="103.855381">
+        <name>Esplanade</name>
+    </wpt>
+    <wpt lat="1.293131" lon="103.861064">
+        <name>Promenade</name>
+    </wpt>
+    <wpt lat="1.299722" lon="103.863611">
+        <name>Nicoll Highway</name>
+    </wpt>
+    <wpt lat="1.302778" lon="103.875278">
+        <name>Stadium</name>
+    </wpt>
+    <wpt lat="1.306306" lon="103.882531">
+        <name>Mountbatten</name>
+    </wpt>
+    <wpt lat="1.308289" lon="103.888253">
+        <name>Dakota</name>
+    </wpt>
+    <wpt lat="1.317767" lon="103.892381">
+        <name>Paya Lebar</name>
+    </wpt>
+    <wpt lat="1.32665" lon="103.890019">
+        <name>Macpherson</name>
+    </wpt>
+    <wpt lat="1.335833" lon="103.887942">
+        <name>Tai Seng</name>
+    </wpt>
+    <wpt lat="1.342756" lon="103.879697">
+        <name>Bartley</name>
+    </wpt>
+    <wpt lat="1.349944" lon="103.873092">
+        <name>Serangoon</name>
+    </wpt>
+    <wpt lat="1.351636" lon="103.864064">
+        <name>Lorong Chuan</name>
+    </wpt>
+    <wpt lat="1.351236" lon="103.848456">
+        <name>Bishan</name>
+    </wpt>
+    <wpt lat="1.349078" lon="103.839492">
+        <name>Marymount</name>
+    </wpt>
+    <wpt lat="1.337761" lon="103.839447">
+        <name>Caldecott</name>
+    </wpt>
+    <wpt lat="1.333639" lon="103.830075">
+        <name>Bukit Brown</name>
+    </wpt>
+    <wpt lat="1.322519" lon="103.815406">
+        <name>Botanic Gardens</name>
+    </wpt>
+    <wpt lat="1.317319" lon="103.807431">
+        <name>Farrer Road</name>
+    </wpt>
+    <wpt lat="1.312078" lon="103.796208">
+        <name>Holland Village</name>
+    </wpt>
+    <wpt lat="1.307333" lon="103.790028">
+        <name>Buona Vista</name>
+    </wpt>
+    <wpt lat="1.299331" lon="103.787067">
+        <name>one-north</name>
+    </wpt>
+    <wpt lat="1.293383" lon="103.784394">
+        <name>Kent Ridge</name>
+    </wpt>
+    <wpt lat="1.282386" lon="103.781867">
+        <name>Haw Par Villa</name>
+    </wpt>
+    <wpt lat="1.276167" lon="103.791358">
+        <name>Pasir Panjang</name>
+    </wpt>
+    <wpt lat="1.272267" lon="103.802908">
+        <name>Labrador Park</name>
+    </wpt>
+    <wpt lat="1.270572" lon="103.809678">
+        <name>Telok Blangah</name>
+    </wpt>
+    <wpt lat="1.265297" lon="103.82225">
+        <name>Harbourfront</name>
+    </wpt>
+    <wpt lat="1.269988" lon="103.830385">
+        <name>Keppel</name>
+    </wpt>
+    <wpt lat="1.272814" lon="103.836659">
+        <name>Cantonment</name>
+    </wpt>
+    <wpt lat="1.273254" lon="103.847298">
+        <name>Prince Edward Road</name>
+    </wpt>
+    <wpt lat="1.276097" lon="103.854675">
+        <name>Marina Bay</name>
+    </wpt>
+    <wpt lat="1.282347" lon="103.859317">
+        <name>Bayfront</name>
+    </wpt>
+</gpx>

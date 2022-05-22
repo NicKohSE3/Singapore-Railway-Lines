@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1">
+    <!-- Enter RTE below this line (If you're in the JapanTrains directory) -->
+    <rte>
+        <!-- Paste the copied 'rtept's from running CoordinatesFormatter_RTE.js here-->
+        <rtept lat="1.391653" lon="103.895133"></rtept>
+        <rtept lat="1.394564" lon="103.900156"></rtept>
+        <rtept lat="1.391094" lon="103.906306"></rtept>
+        <rtept lat="1.387853" lon="103.905267"></rtept>
+        <rtept lat="1.383739" lon="103.902194"></rtept>
+        <rtept lat="1.383619" lon="103.897736"></rtept>
+        <rtept lat="1.39631" lon="103.893713"></rtept>
+        <rtept lat="1.398978" lon="103.888911"></rtept>
+        <rtept lat="1.399228" lon="103.881319"></rtept>
+        <rtept lat="1.399356" lon="103.874794"></rtept>
+        <rtept lat="1.393208" lon="103.876303"></rtept>
+        <rtept lat="1.394025" lon="103.879753"></rtept>
+        <rtept lat="1.391078" lon="103.885772"></rtept>
+        <rtept lat="1.386614" lon="103.890425"></rtept>
+    </rte>
+
+    <!-- Paste the respective 'wpt's here -->
+    <wpt lat="1.391653" lon="103.895133">
+        <name>Sengkang</name>
+    </wpt>
+    <wpt lat="1.394564" lon="103.900156">
+        <name>Compassvale</name>
+    </wpt>
+    <wpt lat="1.391094" lon="103.906306">
+        <name>Rumbia</name>
+    </wpt>
+    <wpt lat="1.387853" lon="103.905267">
+        <name>Bakau</name>
+    </wpt>
+    <wpt lat="1.383739" lon="103.902194">
+        <name>Kangkar</name>
+    </wpt>
+    <wpt lat="1.383619" lon="103.897736">
+        <name>Ranggung</name>
+    </wpt>
+    <wpt lat="1.39631" lon="103.893713">
+        <name>Cheng Lim</name>
+    </wpt>
+    <wpt lat="1.398978" lon="103.888911">
+        <name>Farmway</name>
+    </wpt>
+    <wpt lat="1.399228" lon="103.881319">
+        <name>Kupang</name>
+    </wpt>
+    <wpt lat="1.399356" lon="103.874794">
+        <name>Thanggam</name>
+    </wpt>
+    <wpt lat="1.393208" lon="103.876303">
+        <name>Fernvale</name>
+    </wpt>
+    <wpt lat="1.394025" lon="103.879753">
+        <name>Layar</name>
+    </wpt>
+    <wpt lat="1.391078" lon="103.885772">
+        <name>Tongkang</name>
+    </wpt>
+    <wpt lat="1.386614" lon="103.890425">
+        <name>Renjong</name>
+    </wpt>
+</gpx>

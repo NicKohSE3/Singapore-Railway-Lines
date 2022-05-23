@@ -5,7 +5,19 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "type": "module",
   "author": "",
   "license": "ISC",
-  "description": ""
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NicKohSE3/Singapore-Railway-Lines.git"
+  },
+  "bugs": {
+    "url": "https://github.com/NicKohSE3/Singapore-Railway-Lines/issues"
+  },
+  "homepage": "https://github.com/NicKohSE3/Singapore-Railway-Lines#readme",
+  "description": "",
+  "dependencies": {
+    "clipboardy": "^3.0.0"
+  }
 }

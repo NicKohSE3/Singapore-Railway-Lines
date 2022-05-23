@@ -1,5 +1,6 @@
 // Constants
-const INPUT = require('readline-sync');
+import input from 'readline-sync';
+import clipboard from 'clipboardy';
 const WPT_OPEN_LAT_OPEN =
     `<wpt lat="`;
 const LAT_CLOSE_LON_OPEN =
@@ -13,7 +14,7 @@ const NAME_CLOSE_WPT_CLOSE =
     </wpt>`
 const EMPTY_SPACE_REGEX = /\s/g;
 const LETTER_REGEX = /[a-zA-Z]/g;
-const ALL_REGEX = /[\wÀ-ž ]/g
+const ALL_REGEX = /./g;
 // Variables
 var coordinates; // Expecting 2 decimals, separated with commas.
 var coordinates_array; // The above variable, in an array
@@ -24,7 +25,7 @@ var finalString; // It's the final string now
 
 console.log("Welcome to the coordinate formatter! - WPT Edition");
 do {
-    coordinates = INPUT.question("What are the coordinates? (Enter STOP or press Ctrl+C to quit the program) ");
+    coordinates = input.question("What are the coordinates? (Enter STOP or press Ctrl+C to quit the program) ");
 
     function coordinateError() {
         console.error("That is not a valid coordinate!");
@@ -40,8 +41,10 @@ do {
                 // console.error("Line 33: Out of bounds for latitude and/or longitude or latitude and/or longitude contains letters")
                 coordinateError();
             } else {
-                stationName = INPUT.question("What is the station name? (Your input may not be shown properly so you may need to paste it again later) ");
+                stationName = input.question("What is the station name? (Your input may not be shown properly so you may need to paste it again later) ");
                 finalString = WPT_OPEN_LAT_OPEN + latitude + LAT_CLOSE_LON_OPEN + longitude + LON_CLOSE_WPT_CLOSE + stationName + NAME_CLOSE_WPT_CLOSE;
+                clipboard.writeSync(finalString);
+                console.log("The text below has been copied to your clipboard, feel free to paste it to the GPX file :D ");
                 console.log(finalString);
             }
         } else {

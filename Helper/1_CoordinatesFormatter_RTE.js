@@ -1,5 +1,6 @@
 // Constants
-const INPUT = require('readline-sync');
+import input from 'readline-sync';
+import clipboard from 'clipboardy';
 const RTEPT_OPEN_LAT_OPEN =
     `<rtept lat="`;
 const LAT_CLOSE_LON_OPEN =
@@ -18,7 +19,7 @@ var finalString; // It's the final string now
 
 console.log("Welcome to the coordinate formatter! - RTE edition");
 do {
-    coordinates = INPUT.question("What are the coordinates? (Enter STOP or press Ctrl+C to quit the program) ");
+    coordinates = input.question("What are the coordinates? (Enter STOP or press Ctrl+C to quit the program) ");
 
     function error() {
         console.error("That is not a valid coordinate!");
@@ -31,15 +32,17 @@ do {
             longitude = +coordinates_array[1]; // Set the longitude as a number by adding a + in front
 
             if (latitude > 90 || latitude < -90 || LETTER_REGEX.test(latitude) || longitude > 180 || longitude < -180 || LETTER_REGEX.test(longitude)) {
-                // console.error("Line 33: Out of bounds for latitude and/or longitude or latitude and/or longitude contains letters")
+                // console.error("Line 35: Out of bounds for latitude and/or longitude or latitude and/or longitude contains letters")
                 error();
             } else {
-                // console.log("Line 36: Values accepted");
-                finalString = RTEPT_OPEN_LAT_OPEN + latitude + LAT_CLOSE_LON_OPEN + longitude + LON_CLOSE_RTEPT_CLOSE;
+                // console.log("Line 38: Values accepted");
+                finalString = RTEPT_OPEN_LAT_OPEN + latitude + LAT_CLOSE_LON_OPEN + longitude + LON_CLOSE_RTEPT_CLOSE + "\n\t";
+                clipboard.writeSync(finalString);
+                console.log("The text below has been copied to your clipboard, feel free to paste it to the GPX file :D ");
                 console.log(finalString);
             }
         } else {
-            // console.error("Line 40: More than 2 values inside coordinates_array");
+            // console.error("Line 45: More than 2 values inside coordinates_array");
             error();
         }
     } // End of main()
@@ -49,6 +52,7 @@ do {
             coordinates = coordinates.replace(EMPTY_SPACE_REGEX, "") // Replace all spaces with nothing
             main();
         } else {
+            1, 2
             main();
         }
     } else if (coordinates === "STOP") {
@@ -56,7 +60,7 @@ do {
         console.log("Thank you for using the program, goodbye. You may use 2_CoordinatesFormatter_WPT.js to make the waypoints!");
         process.exit(1);
     } else {
-        // console.log("Line 57: Does not contain comma, not a coordinate");
+        // console.log("Line 62: Does not contain comma, not a coordinate");
         error();
     }
 } while (coordinates !== "STOP")

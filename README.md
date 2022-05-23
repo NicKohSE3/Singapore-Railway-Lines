@@ -1,0 +1,3 @@
+# What Is This?
+
+This is a repository which contains every Mass Rapid Transit (MRT) & Light Rail Transit (LRT) line that has been built in Singapore, represented as either a [GPX](https://en.wikipedia.org/wiki/GPS_Exchange_Format) or a [GeoJSON](https://en.wikipedia.org/wiki/GeoJSON). Some stations have been planned and the respective coordinates from Wikipedia (and in turn, GeoHack) have been used.
